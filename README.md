@@ -25,4 +25,4 @@ I'm currently a C# developer, with some tendency to explore other languages. I l
 My other interests, besides coding, include music, animation movies, series, and pretty much anything I  
 find interesting.
 
-- 📫 You can reach me by email at [yours.truly.anri@gmail.com](mailto:yours.truly.anri@gmail.com)
+📫 You can reach me by email at [yours.truly.anri@gmail.com](mailto:yours.truly.anri@gmail.com)
