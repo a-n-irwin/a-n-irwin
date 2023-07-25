@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm A-N-R-I
 
-I'm currently a C# developer, with some tendency to explore other languages. I love problem-solving even more than I love 
+ I'm still finding my niche. I have a tendency to explore other languages. I love problem-solving even more than I love 
  programming. I've had a run with coding since around 2017. During this time I've experimented a tad bit with HTML, CSS, 
  JavaScript, Java, C++, Dart, and C#, amongst others. But I'm more of a generalist.  
 
-🌱 I'm currently learning the basics of C#, and really looking forward to learning application development with C# and XAML. 
+🌱 I find the web intriguing, so I'm currently learning web development. 
 
-🔭 Currently, I'm working on a command-line-based retro-styled Snake game with C#.
+🔭 Currently not working on anything.
 
 My other interests, besides coding, include music, animation movies, series, and pretty much anything I  
 find interesting.
