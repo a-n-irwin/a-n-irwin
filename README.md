@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🌱 I find the web intriguing, so I'm currently learning web development. 
 
-🔭 Currently not working on anything.
+🔭 Currently working on my Ludo game.
 
 My other interests, besides coding, include music, animation movies, series, and pretty much anything I  
 find interesting.
