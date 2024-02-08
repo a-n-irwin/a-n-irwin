@@ -18,11 +18,11 @@ Here are some ideas to get you started:
  programming. I've had a run with coding since around 2017. During this time I've experimented a tad bit with HTML, CSS, 
  JavaScript, Java, C++, Dart, and C#, amongst others. But I'm more of a generalist.  
 
-🌱 I find the web intriguing, so I'm currently learning web development. 
+🌱 I've taken a new interest in application development on the .NET platform, so I'm currently learning C#.
 
-🔭 Currently working on my Ludo game.
+🔭 I'm currently not working on any project. Although, you could check out my last project - a Ludo game. It's on my repo.
 
 My other interests, besides coding, include music, animation movies, series, and pretty much anything I  
 find interesting.
 
-📫 You can reach me by email at [yours.truly.anri@gmail.com](mailto:yours.truly.anri@gmail.com)
+📫 You can reach me by email at [developer.anri@gmail.com](mailto:developer.anri@gmail.com)
