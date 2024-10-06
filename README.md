@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Irwin (AKA The Herald of Hope, XD)
+### Hi there, I'm Irwin (AKA Clairvoyance)
 
  I'm still finding my niche. I have a tendency to explore different programming languages. I love problem-solving even more than I love 
  programming. I've had a run with coding since around 2017. During this time I've experimented a tad bit with HTML, CSS, 
