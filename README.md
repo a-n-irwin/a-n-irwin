@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 🔭 I'm currently not working on any project. Although, you could check out my last project - a Ludo game. It's on my repo.
 
-My other interests, besides coding, include music, animation movies, series, and pretty much anything I  
-find interesting.
+My interests, besides coding, include trading and technical analysis, listening to music, watching animations, gaming, and pretty much anything else I find interesting.
 
 📫 You can reach me by email at [developer.irwin@gmail.com](mailto:developer.irwin@gmail.com)
