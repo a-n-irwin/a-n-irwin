@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Irwin (AKA Clairvoyance)
+### Hi there, I'm Irwin!
 
  I'm still finding my niche. I have a tendency to explore different programming languages. I love problem-solving, and translating my solutions and ideas into code. I've had a run with coding since around 2017. During this time I've experimented a tad bit with HTML, CSS, 
  JavaScript, Java, C++, Dart, and C#, amongst others. But I'm more of a generalist.  
